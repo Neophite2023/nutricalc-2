@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.npm-cache/
+*.log
+NutriDatabaze-*-data-export.csv
+usda-data/
